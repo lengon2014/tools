@@ -1,0 +1,3 @@
+- 问题：spring boot集成sftp
+- 解决方案：定义properties，将配置项写入，使用配置项管理的的方式实现配置，详细可以参考 [配置项](../properties/readme.md)
+- 步骤：查看代码即可， 最后直接使用Autowired调用集成的sftp
