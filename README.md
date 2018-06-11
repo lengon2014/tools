@@ -5,6 +5,7 @@
 - [spring boot的自定义配置文件和配置项](properties/readme.md) 2018-06-05 [代码](properties)
 - [linux ftp的安装和配置](linux_ftp/readme.md) 2018-06-06 [代码](linux_ftp)
 - [spring boot集成sftp](sftp/readme.md) 2018-06-07 [代码](sftp)
+- [java集成霍尼韦尔扫码枪](scanbar/readme.md) 2018-06-07 [代码](scanbar)
 
 #### 联系我 -> 邮箱：06sscl@gmail.com   微信 -> 
 ![avatar](aboutme/weixin.jpg)
